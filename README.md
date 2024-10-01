@@ -64,3 +64,7 @@ int main()
 }
 ~~~
 ## Output-
+![](https://github.com/SunidhiChoubey/constructor-overloadimg/blob/main/Screenshot%202024-10-01%20011519.png)
+
+## Conclusion-
+we  learnt bout construction overloading
